@@ -7,7 +7,7 @@ It was a success! We took turns between Matt, K0LTC, Eric and Matt N0YNT doing '
 See you in 2023!
 -----
 
-# Conversation leading up to MN Fair 2022:
+## Conversation leading up to MN Fair 2022:
 Matt K0LTC says:
 
 >The comment on the net tonight about designating repeaters/simplex frequencies to the State Fair for those attending is great. I think we could promote it and see what kind of traction we can get. 
