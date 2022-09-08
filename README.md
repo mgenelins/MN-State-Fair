@@ -1,6 +1,13 @@
 # MN-State-Fair
-Talk-in Station for W0YC at the Minnesota State Fair 2022
+## Talk-in Station for W0YC at the Minnesota State Fair 2022
+It was a success! We took turns between Matt, K0LTC, Eric and Matt N0YNT doing 'talk-in' for the MN State Fair. We got lots of ears asking about the talkin station and lots of folks checking in from the fair themselves!
 
+444.425 Minneapolis was preferred, despite the many systems we have overlooking the fair. All stations into Minneapolis had strong singals, and it worked great!
+
+See you in 2023!
+-----
+
+# Conversation leading up to MN Fair 2022:
 Matt K0LTC says:
 
 >The comment on the net tonight about designating repeaters/simplex frequencies to the State Fair for those attending is great. I think we could promote it and see what kind of traction we can get. 
